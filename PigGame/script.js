@@ -17,7 +17,7 @@ let holdScoreButton = document.querySelector('.btn--hold');
 let score = 0;
 let total;
 
-// NOTE: Function that plays the new game -test
+// NOTE: Function that plays the new game
 
 function newGame() {
   playerOneScore.textContent = 0;
